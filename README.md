@@ -18,7 +18,7 @@ Permite adicionar, listar, marcar como concluídas e remover tarefas — ideal p
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU-USUARIO/ToDoList.git
+   git clone https://github.com/sxhszm/ToDoList.git
 
 2. Entre na pasta do projeto:
 
