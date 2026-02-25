@@ -5,7 +5,7 @@ Permite adicionar, listar, marcar como concluídas e remover tarefas — ideal p
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 -  Adicionar tarefas  
 -  Listar todas as tarefas  
@@ -13,7 +13,6 @@ Permite adicionar, listar, marcar como concluídas e remover tarefas — ideal p
 -  Remover tarefas  
 
 ---
-
 ##  Como executar
 
 1. **Clone o repositório:**
@@ -21,50 +20,26 @@ Permite adicionar, listar, marcar como concluídas e remover tarefas — ideal p
    git clone https://github.com/sxhszm/ToDoList.git
 
 2. Entre na pasta do projeto:
-
 cd ToDoList
-
-
 3. Compile o código:
-
 javac Main.java
-
-
 4. Execute o programa:
-
-java Main
-
-
-
- Aprendizados
-
+5. java Main
+Aprendizados
 Este projeto foi criado para praticar:
-
 Estruturas de repetição e condicionais em Java
-
 Manipulação de listas e arrays
 
 Entrada e saída de dados no terminal
-
 Organização de código orientado a objetos
-
-
-
 ---
 
  Sobre o projeto
-
 Este foi meu primeiro projeto em Java.
 
 
 ---
-
 Tecnologias utilizadas
-
 Java
-
 IntelliJ IDEA (ou qualquer IDE compatível)
-
 Git / GitHub
-
-Se quiser trocar ideias sobre aprendizado, programação ou cibersegurança, me encontre no LinkedIn 🌐 https://www.linkedin.com/in/sarah-de-souza-madureira-063937335/
