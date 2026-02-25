@@ -1,4 +1,4 @@
-# 📝 To-Do List (Gerenciador de Tarefas em Java)
+#  To-Do List (Gerenciador de Tarefas em Java)
 
 Projeto simples de **gerenciador de tarefas** desenvolvido em **Java**, rodando no terminal.  
 Permite adicionar, listar, marcar como concluídas e remover tarefas — ideal para praticar lógica de programação e manipulação de listas.
@@ -7,14 +7,14 @@ Permite adicionar, listar, marcar como concluídas e remover tarefas — ideal p
 
 ## ⚙️ Funcionalidades
 
-- ➕ Adicionar tarefas  
-- 📋 Listar todas as tarefas  
-- ✅ Marcar tarefas como concluídas  
-- ❌ Remover tarefas  
+-  Adicionar tarefas  
+-  Listar todas as tarefas  
+-  Marcar tarefas como concluídas  
+-  Remover tarefas  
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 
 1. **Clone o repositório:**
    ```bash
@@ -36,7 +36,7 @@ java Main
 
 
 
-🧠 Aprendizados
+ Aprendizados
 
 Este projeto foi criado para praticar:
 
@@ -52,22 +52,19 @@ Organização de código orientado a objetos
 
 ---
 
-👩‍💻 Sobre o projeto
+ Sobre o projeto
 
-Este foi um dos meus primeiros projetos pessoais em Java.
-Ele representa minha base em lógica e programação, que uso hoje como apoio para minha transição de carreira para Cibersegurança e Ethical Hacking.
+Este foi meu primeiro projeto em Java.
 
 
 ---
 
-🛠️ Tecnologias utilizadas
+Tecnologias utilizadas
 
 Java
 
 IntelliJ IDEA (ou qualquer IDE compatível)
 
 Git / GitHub
-
-📫 Contato
 
 Se quiser trocar ideias sobre aprendizado, programação ou cibersegurança, me encontre no LinkedIn 🌐 https://www.linkedin.com/in/sarah-de-souza-madureira-063937335/
